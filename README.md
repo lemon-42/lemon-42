@@ -9,6 +9,7 @@ Currently i'm working on :
   - CyberSec in general (RedTeam weapon, OSINT, and some fundamentals)
   - Language C
   - A little bit of LFS
+  - Some cybersec challenge.. Maybe we will release them one day (?)
   
 I really hope to work in Cyber Security one day, i'll give my best for this tho.
 

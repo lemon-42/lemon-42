@@ -10,7 +10,7 @@ Currently i'm working on :
   - Language C
   - A little bit of LFS
   
-I really hope to work in Cyber Security one day, otherwise, i'll give my best for this.
+I really hope to work in Cyber Security one day, i'll give my best for this tho.
 
 <!---
 lemon-42/lemon-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

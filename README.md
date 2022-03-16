@@ -6,12 +6,9 @@ I don't know what I'm gonna post here, but we'll see.
 
 Currently I'm working on :
 
-  - CyberSec in general (RedTeam weapon, OSINT, and some fundamentals)
-  - Language C
-  - A little bit of LFS
-  - Some cybersec challenge.. Maybe we will release them one day (?)
+  - zone01
   
-I really hope to work in Cyber Security one day, I'll give my best for this tho.
+I really hope to work in infosec one day, I'll give my best for this tho.
 
 <!---
 lemon-42/lemon-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

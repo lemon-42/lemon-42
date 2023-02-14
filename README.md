@@ -1,16 +1,18 @@
-Hi everybody,
+### Hello there ! 
 
-Just a lemon here, who like cybersec, and computer, things like this.
+#### We Must Reach Far Beyond Our Own Lifespans.
 
-I don't know what I'm gonna post here, but we'll see. 
+🍋 What about me ? 
+<ul>
+  <li> 🪐 I like to look far away to see eternity </li>
+  <li> 💻 I'm a <b>beginner</b> student </li>
+  <li> 💙 I like the color blue.. :) </li>
+</ul> 
 
-Currently I'm working on :
-
-  - zone01
+<details>
+<summary>⚡️ More about my favorite programming language</summary>
+<br />
   
-I really hope to work in infosec one day, I'll give my best for this tho.
-
-<!---
-lemon-42/lemon-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-42&layout=compact&hide=css,html)
+  
+</details>

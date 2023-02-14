@@ -10,7 +10,7 @@
 </ul> 
 
 <details>
-<summary>⚡️ More about my favorite programming language</summary>
+<summary>⚡️ The languages I use most often</summary>
 <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-42&layout=compact&hide=css,html)

@@ -1,4 +1,4 @@
-### Hello there ! 
+### Hello there ! <img src="https://piskel-imgstore-b.appspot.com/img/3fa2aaba-aca9-11ed-b6ac-f3479c76d8d3.gif" width="36"/>
 
 #### We Must Reach Far Beyond Our Own Lifespans.
 

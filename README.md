@@ -4,9 +4,8 @@
 
 🍋 What about me ? 
 <ul>
-  <li> 🪐 I like to look far away to see eternity </li>
+  <li> 🔐 I like privacy </li>
   <li> 💻 I'm a <b>beginner</b> student </li>
-  <li> 💙 I like the color blue.. :) </li>
 </ul> 
 
 <details>

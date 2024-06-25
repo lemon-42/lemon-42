@@ -7,6 +7,8 @@
   <li> 🐧 I like <b>Linux</b> and <b>open source</b> software</li>
 </ul> 
 
+#### Link to my [portfolio](https://kinsta.com/fr/blog/portfolio-next-js/)
+
 <details>
 <summary>⚡️ The languages I use most often</summary>
 <br />

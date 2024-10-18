@@ -3,7 +3,7 @@
 🍋 What about me ? 
 <ul>
   <li> 🔐 I like <b>privacy</b> </li>
-  <li> 💻 I'm a <b>IT beginner</b> student </li>
+  <li> 💻 I'm currently looking for a job </li>
   <li> 🐧 I like <b>Linux</b> and <b>open source</b> software</li>
 </ul> 
 
